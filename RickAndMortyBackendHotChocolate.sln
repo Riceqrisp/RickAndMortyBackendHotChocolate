@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMortyBackendHotChocolate.Api", "RickAndMortyBackendHotChocolate.Api\RickAndMortyBackendHotChocolate.Api.csproj", "{CD36C045-4DA9-43EA-A4EB-7815C6CCB49D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMorty", "RickAndMorty\RickAndMorty.csproj", "{59415C3A-BBB6-4BCD-ABF2-8DF6A25064B8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RickAndMortyApiTests", "RickAndMortyApiTests\RickAndMortyApiTests.csproj", "{59415C3A-BBB6-4BCD-ABF2-8DF6A25064B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
