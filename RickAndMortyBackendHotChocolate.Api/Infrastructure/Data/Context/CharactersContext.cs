@@ -11,7 +11,7 @@ public class CharactersContext : ICharactersContext
             new Character
             {
                 Id = 1,
-
+                Name = "Rick Sanchez",
                 Status = "Alive",
                 Species = "Human",
                 Type = "",
